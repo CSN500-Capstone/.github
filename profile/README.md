@@ -1,4 +1,4 @@
-# CSN500  Capstone Project Organization#
+# CSN500  Capstone Project Organization
 
 Access to the content of this organization ns its repositories is strictly by invitation. 
 If you have registered for the course, you are eligible to be part of this organization.
